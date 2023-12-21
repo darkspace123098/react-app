@@ -1,6 +1,9 @@
 # React + Vite
+<h2>To Create Vite Project :</h2>
+<p><b>npm create vite@latest</b></p>
 
-To Run The Project :
-npm run dev
+<h2>To Run The Project :</h2>
+<p><b>npm run dev</b></p>
 
-To 
+<h2>To Build The Project :</h2>
+<p><b>npm run build</b></p>
